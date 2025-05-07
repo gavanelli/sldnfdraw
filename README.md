@@ -118,7 +118,8 @@ pdf2svg
 
 Full Manual
 -----------
-http://endif.unife.it/it/ricerca-1/aree-di-ricerca/informazione/ingegneria-informatica/software/sldnf-draw/sldnf-draw
+[Chapter 1: static trees](https://github.com/gavanelli/sldnfdraw/blob/master/manual/manual_print.pdf)
+[Chapter 2: animations](https://github.com/gavanelli/sldnfdraw/blob/master/manual/manual_animations.pdf)
 
 Credits
 -------
